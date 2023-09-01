@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Определение просрочки", "Определение просрочки\Определение просрочки.csproj", "{0D78262E-C54A-4AD9-BC8B-84B60E91A6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D78262E-C54A-4AD9-BC8B-84B60E91A6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D78262E-C54A-4AD9-BC8B-84B60E91A6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D78262E-C54A-4AD9-BC8B-84B60E91A6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D78262E-C54A-4AD9-BC8B-84B60E91A6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04732004-6A95-49C9-9D4A-815FC4CE8356}
+	EndGlobalSection
+EndGlobal
